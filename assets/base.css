@@ -2170,6 +2170,18 @@ input[type='checkbox'] {
     padding-top: 2rem;
     padding-bottom: 2rem;
   }
+  .header-wrapper{
+    position: relative;
+  }
+  .header-wrapper::before{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #000;
+
+  }
 
   .header--has-menu:not(.header--middle-left) {
     padding-bottom: 0;
