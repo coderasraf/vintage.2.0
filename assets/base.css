@@ -1,7 +1,10 @@
 /* Color custom properties */
 
 /* Custom fonts */
-
+@font-face {
+  font-family: '';
+  src: url();
+}
 
 :root,
 .color-background-1 {
