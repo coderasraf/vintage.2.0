@@ -3,7 +3,7 @@
 /* Custom fonts */
 @font-face {
   font-family: '';
-  src: url();
+  src: url('Byrd-Regular.otf'), format('opentype');
 }
 
 :root,
